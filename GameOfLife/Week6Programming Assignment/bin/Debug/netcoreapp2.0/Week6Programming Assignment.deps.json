@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Week6Programming Assignment/1.0.0": {
+        "runtime": {
+          "Week6Programming Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week6Programming Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

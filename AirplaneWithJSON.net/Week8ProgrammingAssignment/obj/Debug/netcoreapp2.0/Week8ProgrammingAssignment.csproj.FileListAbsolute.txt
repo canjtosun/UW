@@ -1,0 +1,11 @@
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\bin\Debug\netcoreapp2.0\Week8ProgrammingAssignment.deps.json
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\bin\Debug\netcoreapp2.0\Week8ProgrammingAssignment.runtimeconfig.json
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\bin\Debug\netcoreapp2.0\Week8ProgrammingAssignment.runtimeconfig.dev.json
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\bin\Debug\netcoreapp2.0\Week8ProgrammingAssignment.dll
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\bin\Debug\netcoreapp2.0\Week8ProgrammingAssignment.pdb
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\obj\Debug\netcoreapp2.0\Week8ProgrammingAssignment.csprojResolveAssemblyReference.cache
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\obj\Debug\netcoreapp2.0\Week8ProgrammingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\obj\Debug\netcoreapp2.0\Week8ProgrammingAssignment.AssemblyInfoInputs.cache
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\obj\Debug\netcoreapp2.0\Week8ProgrammingAssignment.AssemblyInfo.cs
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\obj\Debug\netcoreapp2.0\Week8ProgrammingAssignment.dll
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\obj\Debug\netcoreapp2.0\Week8ProgrammingAssignment.pdb

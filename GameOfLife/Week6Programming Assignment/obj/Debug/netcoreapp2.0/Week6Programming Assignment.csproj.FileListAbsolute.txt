@@ -1,0 +1,21 @@
+C:\Users\canto\Desktop\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\bin\Debug\netcoreapp2.0\Week6Programming Assignment.deps.json
+C:\Users\canto\Desktop\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\bin\Debug\netcoreapp2.0\Week6Programming Assignment.runtimeconfig.json
+C:\Users\canto\Desktop\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\bin\Debug\netcoreapp2.0\Week6Programming Assignment.runtimeconfig.dev.json
+C:\Users\canto\Desktop\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\bin\Debug\netcoreapp2.0\Week6Programming Assignment.dll
+C:\Users\canto\Desktop\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\bin\Debug\netcoreapp2.0\Week6Programming Assignment.pdb
+C:\Users\canto\Desktop\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\obj\Debug\netcoreapp2.0\Week6Programming Assignment.csprojResolveAssemblyReference.cache
+C:\Users\canto\Desktop\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\obj\Debug\netcoreapp2.0\Week6Programming Assignment.csproj.CoreCompileInputs.cache
+C:\Users\canto\Desktop\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\obj\Debug\netcoreapp2.0\Week6Programming Assignment.AssemblyInfoInputs.cache
+C:\Users\canto\Desktop\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\obj\Debug\netcoreapp2.0\Week6Programming Assignment.AssemblyInfo.cs
+C:\Users\canto\Desktop\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\obj\Debug\netcoreapp2.0\Week6Programming Assignment.dll
+C:\Users\canto\Desktop\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\obj\Debug\netcoreapp2.0\Week6Programming Assignment.pdb
+G:\School\LWTECH Classes\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\bin\Debug\netcoreapp2.0\Week6Programming Assignment.deps.json
+G:\School\LWTECH Classes\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\bin\Debug\netcoreapp2.0\Week6Programming Assignment.runtimeconfig.json
+G:\School\LWTECH Classes\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\bin\Debug\netcoreapp2.0\Week6Programming Assignment.runtimeconfig.dev.json
+G:\School\LWTECH Classes\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\bin\Debug\netcoreapp2.0\Week6Programming Assignment.dll
+G:\School\LWTECH Classes\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\bin\Debug\netcoreapp2.0\Week6Programming Assignment.pdb
+G:\School\LWTECH Classes\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\obj\Debug\netcoreapp2.0\Week6Programming Assignment.csprojAssemblyReference.cache
+G:\School\LWTECH Classes\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\obj\Debug\netcoreapp2.0\Week6Programming Assignment.AssemblyInfoInputs.cache
+G:\School\LWTECH Classes\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\obj\Debug\netcoreapp2.0\Week6Programming Assignment.AssemblyInfo.cs
+G:\School\LWTECH Classes\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\obj\Debug\netcoreapp2.0\Week6Programming Assignment.dll
+G:\School\LWTECH Classes\CSD228 C#\Week6Programming Assignment\Week6Programming Assignment\obj\Debug\netcoreapp2.0\Week6Programming Assignment.pdb

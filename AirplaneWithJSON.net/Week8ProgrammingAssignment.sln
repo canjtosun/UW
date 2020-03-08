@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirplaneRegular", "Week8ProgrammingAssignment\AirplaneRegular.csproj", "{DE962B89-2C4F-4C08-B6AE-AE6DFBEFA759}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirplaneWithJSON.net", "AirplaneWithJSON.net\AirplaneWithJSON.net.csproj", "{6C9EC719-C6E6-43D3-B309-BEFF5EF14BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE962B89-2C4F-4C08-B6AE-AE6DFBEFA759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE962B89-2C4F-4C08-B6AE-AE6DFBEFA759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE962B89-2C4F-4C08-B6AE-AE6DFBEFA759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE962B89-2C4F-4C08-B6AE-AE6DFBEFA759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9EC719-C6E6-43D3-B309-BEFF5EF14BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9EC719-C6E6-43D3-B309-BEFF5EF14BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9EC719-C6E6-43D3-B309-BEFF5EF14BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9EC719-C6E6-43D3-B309-BEFF5EF14BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7E35E25-251A-4B50-ADF9-3C35AC874333}
+	EndGlobalSection
+EndGlobal

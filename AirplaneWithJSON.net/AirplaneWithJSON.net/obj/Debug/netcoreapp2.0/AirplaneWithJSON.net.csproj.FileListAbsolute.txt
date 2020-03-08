@@ -1,0 +1,11 @@
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\AirplaneWithJSON.net\bin\Debug\netcoreapp2.0\AirplaneWithJSON.net.deps.json
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\AirplaneWithJSON.net\bin\Debug\netcoreapp2.0\AirplaneWithJSON.net.runtimeconfig.json
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\AirplaneWithJSON.net\bin\Debug\netcoreapp2.0\AirplaneWithJSON.net.runtimeconfig.dev.json
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\AirplaneWithJSON.net\bin\Debug\netcoreapp2.0\AirplaneWithJSON.net.dll
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\AirplaneWithJSON.net\obj\Debug\netcoreapp2.0\AirplaneWithJSON.net.csproj.CoreCompileInputs.cache
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\AirplaneWithJSON.net\obj\Debug\netcoreapp2.0\AirplaneWithJSON.net.AssemblyInfoInputs.cache
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\AirplaneWithJSON.net\obj\Debug\netcoreapp2.0\AirplaneWithJSON.net.AssemblyInfo.cs
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\AirplaneWithJSON.net\bin\Debug\netcoreapp2.0\AirplaneWithJSON.net.pdb
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\AirplaneWithJSON.net\obj\Debug\netcoreapp2.0\AirplaneWithJSON.net.csprojResolveAssemblyReference.cache
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\AirplaneWithJSON.net\obj\Debug\netcoreapp2.0\AirplaneWithJSON.net.dll
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\AirplaneWithJSON.net\obj\Debug\netcoreapp2.0\AirplaneWithJSON.net.pdb

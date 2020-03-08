@@ -1,0 +1,11 @@
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\bin\Debug\netcoreapp2.0\AirplaneRegular.deps.json
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\bin\Debug\netcoreapp2.0\AirplaneRegular.runtimeconfig.json
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\bin\Debug\netcoreapp2.0\AirplaneRegular.runtimeconfig.dev.json
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\bin\Debug\netcoreapp2.0\AirplaneRegular.dll
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\bin\Debug\netcoreapp2.0\AirplaneRegular.pdb
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\obj\Debug\netcoreapp2.0\AirplaneRegular.csprojResolveAssemblyReference.cache
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\obj\Debug\netcoreapp2.0\AirplaneRegular.csproj.CoreCompileInputs.cache
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\obj\Debug\netcoreapp2.0\AirplaneRegular.AssemblyInfoInputs.cache
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\obj\Debug\netcoreapp2.0\AirplaneRegular.AssemblyInfo.cs
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\obj\Debug\netcoreapp2.0\AirplaneRegular.dll
+C:\Users\canto\Desktop\CSD228 C#\Week8ProgrammingAssignment\Week8ProgrammingAssignment\obj\Debug\netcoreapp2.0\AirplaneRegular.pdb
