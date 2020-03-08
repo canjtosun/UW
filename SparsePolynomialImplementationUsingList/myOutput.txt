@@ -1,0 +1,150 @@
+Checking changecoefficient, degree and power method
+Polynomial 1: -55x^69 + 6x^6 + 5x^5 + 40x^4-20x^2 + 400
+Polynomial 1 degree:  69
+Polynomial 1 coefficient of power 3:  0
+Polynomial 1 coefficient of power 4:  40
+Polynomial 1 coefficient of power 0:  400
+--------------------------------------------------------
+Checking = operator
+Polynomial 1: -55x^69 + 6x^6 + 5x^5 + 40x^4-20x^2 + 400
+
+Polynomial 2: Empty
+
+After calling p2=p1
+Polynomial 1: -55x^69 + 6x^6 + 5x^5 + 40x^4-20x^2 + 400
+
+Polynomial 2: -55x^69 + 6x^6 + 5x^5 + 40x^4-20x^2 + 400
+
+--------------------------------------------------------
+Checking replace after using = operator
+polynomial 2: -55x^69 + 6x^6 + 5x^5 + 4.5x^4 + 3.5x^3 + 3.5x^2 + 400
+
+--------------------------------------------------------
+Creating another polynomial
+polynomial 3: 10x^10 + 3x^4 + 2x^2
+
+--------------------------------------------------------
+Checking + operator
+polynomial 4: Empty
+
+Polynomial 2: -55x^69 + 6x^6 + 5x^5 + 4.5x^4 + 3.5x^3 + 3.5x^2 + 400
+
+Polynomial 3: 10x^10 + 3x^4 + 2x^2
+
+Polynomial 2 + Polynomial 3
+-55x^69 + 10x^10 + 6x^6 + 5x^5 + 7.5x^4 + 3.5x^3 + 5.5x^2 + 400
+
+--------------------------------------------------------
+Checking - operator
+polynomial 5: Empty
+
+Polynomial 2: -55x^69 + 6x^6 + 5x^5 + 4.5x^4 + 3.5x^3 + 3.5x^2 + 400
+
+Polynomial 3: 10x^10 + 3x^4 + 2x^2
+
+Polynomial 2 - Polynomial 3
+-55x^69-10x^10 + 6x^6 + 5x^5 + 1.5x^4 + 3.5x^3 + 1.5x^2 + 400
+
+--------------------------------------------------------
+Checking - operator
+polynomial 6: Empty
+
+Polynomial 2: -55x^69 + 6x^6 + 5x^5 + 4.5x^4 + 3.5x^3 + 3.5x^2 + 400
+
+Polynomial 3: 10x^10 + 3x^4 + 2x^2
+
+Polynomial 3 - Polynomial 2
+55x^69 + 10x^10-6x^6-5x^5-1.5x^4-3.5x^3-1.5x^2-400
+
+--------------------------------------------------------
+Creating another polynomial
+polynomial 7: 10x^10 + 3x^4 + 2x^2
+
+--------------------------------------------------------
+Creating another polynomial
+polynomial 8: 110x^10 + 13x^4 + 12x^2
+
+--------------------------------------------------------
+Creating another polynomial
+polynomial 9: -99.7x^99
+
+--------------------------------------------------------
+Checking == operator
+?????? Polynomial 3 == Polynomial 7 ??????? 
+polynomial 3: 10x^10 + 3x^4 + 2x^2
+
+polynomial 7: 10x^10 + 3x^4 + 2x^2
+
+equal
+--------------------------------------------------------
+Checking == operator
+?????? Polynomial 7 == Polynomial 8 ??????? 
+polynomial 7: 10x^10 + 3x^4 + 2x^2
+
+polynomial 8: 110x^10 + 13x^4 + 12x^2
+
+not equal
+--------------------------------------------------------
+Checking == operator
+?????? Polynomial 1 == Polynomial 8 ??????? 
+polynomial 1: -55x^69 + 6x^6 + 5x^5 + 40x^4-20x^2 + 400
+
+polynomial 8: 110x^10 + 13x^4 + 12x^2
+
+not equal
+--------------------------------------------------------
+Checking != operator
+?????? Polynomial 3 != Polynomial 7 ??????? 
+polynomial 3: 10x^10 + 3x^4 + 2x^2
+
+polynomial 7: 10x^10 + 3x^4 + 2x^2
+
+equal
+--------------------------------------------------------
+Checking != operator
+?????? Polynomial 7 != Polynomial 8 ??????? 
+polynomial 7: 10x^10 + 3x^4 + 2x^2
+
+polynomial 8: 110x^10 + 13x^4 + 12x^2
+
+not equal
+--------------------------------------------------------
+Checking != operator
+?????? Polynomial 1 != Polynomial 8 ??????? 
+polynomial 1: -55x^69 + 6x^6 + 5x^5 + 40x^4-20x^2 + 400
+
+polynomial 8: 110x^10 + 13x^4 + 12x^2
+
+not equal
+--------------------------------------------------------
+Checking copy constructor
+Creating a polynomial and copying polynomial 1 to there
+Copy constructor: -55x^69 + 6x^6 + 5x^5 + 40x^4-20x^2 + 400
+
+--------------------------------------------------------
+Checking += operator
+Polynomial 7: 10x^10 + 3x^4 + 2x^2
+Polynomial 8: 110x^10 + 13x^4 + 12x^2
+New polynomial 7 after polynomial 7 += p8: 120x^10 + 16x^4 + 14x^2
+
+-----------------------------------------------------
+Checking += operator
+Polynomial 2: -55x^69 + 6x^6 + 5x^5 + 4.5x^4 + 3.5x^3 + 3.5x^2 + 400
+Polynomial 5: -55x^69-10x^10 + 6x^6 + 5x^5 + 1.5x^4 + 3.5x^3 + 1.5x^2 + 400
+New polynomial 2 after polynomial 2 += p5: -110x^69-10x^10 + 12x^6 + 10x^5 + 6x^4 + 7x^3 + 5x^2 + 800
+
+-----------------------------------------------------
+Creating another polynomial
+polynomial 10: Polynomial 10: 99.7x^99
+
+-----------------------------------------------------
+Polynomial 11: Empty
+
+Testing edge cases (-99) + 99 = 0
+Polynomial 9: -99.7x^99
+
+Polynomial 10: 99.7x^99
+
+Polynomial 9 + Polynomial 10 : 
+
+
