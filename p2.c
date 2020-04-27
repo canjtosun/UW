@@ -133,10 +133,10 @@ int main(void)
 			if(i%3 == 0 && j%3 == 0)
 			{				
 				parameters *gridData = (parameters *) malloc(sizeof(parameters));
-                gridData->row = i;
-                gridData->column = j;
-                gridData->board = sudoku;
-                pthread_create(&threads[index++], NULL, checkGrid, gridData);
+				gridData->row = i;
+				gridData->column = j;
+				gridData->board = sudoku;
+				pthread_create(&threads[index++], NULL, checkGrid, gridData);
 			}
 			 
 			// column thread create
@@ -145,10 +145,10 @@ int main(void)
 			if(i == 0)
 			{
 				parameters *columnData = (parameters *) malloc(sizeof(parameters));
-                columnData->row = i;
-                columnData->column = j;
-                columnData->board = sudoku;
-                pthread_create(&threads[index++], NULL, checkCol, columnData);	
+				columnData->row = i;
+				columnData->column = j;
+				columnData->board = sudoku;
+				pthread_create(&threads[index++], NULL, checkCol, columnData);	
 			}
 			 
 			// row thread create
@@ -157,10 +157,10 @@ int main(void)
 			if(j == 0)
 			{
 				parameters *rowData = (parameters *) malloc(sizeof(parameters));
-                rowData->row = i;
-                rowData->column = j;
-                rowData->board = sudoku;
-                pthread_create(&threads[index++], NULL, checkRow, rowData);		
+				rowData->row = i;
+				rowData->column = j;
+				rowData->board = sudoku;
+				pthread_create(&threads[index++], NULL, checkRow, rowData);		
 			}		 
 		}	 
 	}
@@ -173,7 +173,7 @@ int main(void)
 	/*
 	sudoku check output
 	check each grid, row, and column
-	grids	->	0|1|2
+	grids	->		0|1|2
 				-----
 				3|4|5
 				-----
